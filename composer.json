@@ -1,5 +1,5 @@
 {
-    "name": "sander-van-hooft/laravel-invoicable",
+    "name": "aabosham/laravel-invoicable",
     "type": "library",
     "description": "Easy invoice generation using Laravel Eloquent",
     "keywords": [
@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^7.4 || ^8.0 || ^9.",
         "ext-intl": "*",
         "dompdf/dompdf": "^1.0",
         "illuminate/support": "^7.0 || ^8.0",
